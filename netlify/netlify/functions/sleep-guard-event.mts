@@ -1,4 +1,4 @@
-import { getStore, type Store } from "@netlify/blobs";
+import { getStore, type Store } from "@netlify/blobs/dist/index.js"
 
 const allowedEvents = new Set([
   "sleep_guard_started",
