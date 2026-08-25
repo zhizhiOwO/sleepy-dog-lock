@@ -3,5 +3,5 @@
   command = "npm install"
 
 [functions]
-  directory = "netlify/functions"
+  directory = "netlify/netlify/functions"
   node_bundler = "esbuild"
